@@ -26,4 +26,5 @@ botão aparecer.
 
 Outros elementos seguem o tema escolhido, na medida do possível para as limitações do windows forms
 
-![].(https://user-images.githubusercontent.com/83375136/195960172-09837af6-3545-4f9f-a281-e7568ea71d8d.png)
+![systray](https://user-images.githubusercontent.com/83375136/196004046-5531fe76-2c34-4e27-8b20-57a1a7f988a9.png)
+
