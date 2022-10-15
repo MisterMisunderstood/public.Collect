@@ -1,2 +1,29 @@
-# public.Collect
+# Collect
 Repo público do Collect
+
+
+Collete foi pensado para ser simples e direto com foco em conteúdo textual e que preserve alguma formatação
+
+Para registrar pequenos tutoriais, textos interessantes, citações etc.
+
+Em windows forms, esse projeto nasceu para pôr em prática a linguagem c#. Porém, eu quis fazer alguma coisa um pouco melhorada, sobretudo na aparência, que atendesse as minhas necessidades, para registrar ideias, pequenos textos e tutoriais mas que preservasse alguma formatação, como negrito, itálico e bullets -que juntos são ótimos para organizar ideias-.
+Não foi pensado para ser sofisticado, apenas direto e funcional, para substituir o bloco de notas (notepad) no meu caso.
+
+
+![apresentação formatação](https://user-images.githubusercontent.com/83375136/195960010-0bf16d8f-948f-4611-b7de-bd338aec48b2.png)
+
+Possui tema claro e escuro, seguindo o quanto possível o flat design. O tema se alterna sozinho de acordo com o horário ou explicitamente clicando no botão em forma de lâmpada. 
+
+![dualtone](https://user-images.githubusercontent.com/83375136/195960079-d797380e-f7ee-46e4-88a0-a7321099846e.png)
+
+![arte1-multicores2](https://user-images.githubusercontent.com/83375136/195960145-7af805fd-f06f-48fb-ac54-f37da2932d89.png)
+
+Permite redimensionar até um valor mínimo e máximo, mas nunca vai preencher a
+janela inteira. Para redimensionar, passe o mouse na borda inferior e aguarde o 
+botão aparecer. 
+
+![Barra e redir](https://user-images.githubusercontent.com/83375136/195960120-cf646527-69b2-4fd9-9bd8-a5adcf4be9b3.png)
+
+Outros elementos seguem o tema escolhido, na medida do possível para as limitações do windows forms
+
+![systray](https://user-images.githubusercontent.com/83375136/195960172-09837af6-3545-4f9f-a281-e7568ea71d8d.png)
