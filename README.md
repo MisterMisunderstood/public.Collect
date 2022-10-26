@@ -6,8 +6,9 @@ _Collete foi pensado para ser simples e direto com foco em conteúdo textual e q
 
 - Para registrar pequenos tutoriais, textos interessantes, citações etc.
 
-Em windows forms, esse projeto nasceu para pôr em prática a linguagem c#. Porém, eu quis fazer alguma coisa um pouco melhorada, sobretudo na aparência, que atendesse as minhas necessidades, para registrar ideias, pequenos textos e tutoriais mas que preservasse alguma formatação, como negrito, itálico e bullets -que juntos são ótimos para organizar ideias-.
+Em windows forms, esse projeto nasceu para pôr em prática a linguagem c#, do [curso CFB](http://cfbcursos.com.br/) que muito me ajudou a dar os primeiros passos nessa nova jornada. Recomendo muito! Porém, eu quis fazer alguma coisa um pouco melhorada, sobretudo na aparência, que atendesse as minhas necessidades, para registrar ideias, pequenos textos e tutoriais mas que preservasse alguma formatação, como negrito, itálico e bullets -que juntos são ótimos para organizar ideias-.
 Não foi pensado para ser sofisticado, apenas direto e funcional, para substituir o bloco de notas (notepad) no meu caso.
+Para conhecer os cursos gratuitos disponíveis do [CFB Cursos](http://cfbcursos.com.br/), clica aí! O [canal](https://www.youtube.com/c/cfbcursos/playlists) do professor Bruno no [Youtube](https://www.youtube.com/c/cfbcursos/playlists) tem muito material
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83375136/195960010-0bf16d8f-948f-4611-b7de-bd338aec48b2.png" width="740px" />
