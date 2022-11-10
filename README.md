@@ -1,8 +1,10 @@
+![C#](https://img.shields.io/badge/Made%20with-CSharp%20+%20WinForms-13424f.svg)
+
 # Collect
-###### Repo público do Collect
+###### Repo público do Collect - não há código fonte aqui, apenas servindo para disponibilizar as compilações.  
 
 
-_Collete foi pensado para ser simples e direto com foco em conteúdo textual e que preserve alguma formatação_
+# _Collete foi pensado para ser simples e direto com foco em conteúdo textual e que preserve alguma formatação_
 
 - Para registrar pequenos tutoriais, textos interessantes, citações etc.
 
