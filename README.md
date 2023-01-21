@@ -4,7 +4,7 @@
 ###### Repo público do Collect - não há código fonte aqui, apenas servindo para disponibilizar as compilações.  
 
 
-# _Collete foi pensado para ser simples e direto com foco em conteúdo textual e que preserve alguma formatação_
+# _Collect foi pensado para ser simples e direto com foco em conteúdo textual e que preserve alguma formatação_
 
 - Para registrar pequenos tutoriais, textos interessantes, citações etc.
 
